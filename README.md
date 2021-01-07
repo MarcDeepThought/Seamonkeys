@@ -8,7 +8,7 @@ DE: Dies ist ein kleines Projekt zum Züchten von Urzeitkrebsen.
 
 ### 
 
-![Picture](https://github.com/MarcDeepThought/Seamonkeys/blob/main/fotos/Seamonkeys.jpg)
+![Picture](https://github.com/MarcDeepThought/Seamonkeys/blob/main/fotos/Seamonkeys2.jpg)
 
 This project is based on an article of the magazine [Make-Ausgabe 5/2020](https://www.heise.de/select/make/2020/5/seite-78) . 
 [The corresponding GitHub project can be found here.](https://github.com/MakeMagazinDE/Urzeitkrebse)
@@ -54,6 +54,7 @@ A description how to create your own 7 segment shield for the Arduino UNO is des
 
 ## Requirements
 
+- [ ] Seamonkeys with food and tank
 - [ ] Arduino Uno
 - [ ] DS18B20 IC digital temperature sensor (waterproof)
 - [ ] (optional) LM35 temperature sensor
@@ -69,3 +70,9 @@ A description how to create your own 7 segment shield for the Arduino UNO is des
 - [ ] Adapter with screw terminals for barrel connector
 - [ ] (optional) Microfuse (Feinsicherung/Schmelzsicherung), 0,6A flink
 
+
+***
+
+## Fotos
+
+[Additional fotos](https://github.com/MarcDeepThought/Seamonkeys/blob/main/fotos/)

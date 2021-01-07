@@ -8,11 +8,12 @@ DE: Dies ist ein kleines Projekt zum Züchten von Urzeitkrebsen.
 
 ### 
 
-![Picture](https://github.com/MarcDeepThought/Seamonkeys/fotos/Seamonkeys.jpg)
+![Picture](https://github.com/MarcDeepThought/Seamonkeys/blob/main/fotos/Seamonkeys.jpg)
 
 This project is based on an article of the magazine [Make-Ausgabe 5/2020](https://www.heise.de/select/make/2020/5/seite-78) . 
 [The corresponding GitHub project can be found here.](https://github.com/MakeMagazinDE/Urzeitkrebse)
 
+***
 
 ### Setup Raspbian Pi Zero with camera modul v2.1
 The Raspbian Pi Zero is used for taking photos of the sea monkeys on a regular basis (e.g. every 15 minutes).
@@ -21,7 +22,7 @@ The Raspbian Pi Zero is used for taking photos of the sea monkeys on a regular b
 3. Enable SSH in Rasbian Pi OS Lite, so that it is available right after the first start:
 	- Create an empty file called "ssh" in the boot partition of the SD Card (e.g. parallel to "bootcode.bin").
 4. Setup WLAN configuration:
-	- Create a file wpa_supplicant.conf in the boot partition of the SD Card. An exmaple config file is here: [wpa_supplicant.conf](https://github.com/MarcDeepThought/Seamonkeys/raspberry_pi_scripts/wpa_supplicant.conf) 
+	- Create a file wpa_supplicant.conf in the boot partition of the SD Card. An exmaple config file is here: [wpa_supplicant.conf](https://github.com/MarcDeepThought/Seamonkeys/blob/main/raspberry_pi_scripts/wpa_supplicant.conf) 
 5. Insert the SD Card in the Raspberry Pi Zero and power it on.
 6. Connect to Raspberry Pi Zero via SSH (user: pi // password: raspberry).
 7. Create folders, one for the scripts and one for the pictures, via command line:
